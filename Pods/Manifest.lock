@@ -1,0 +1,21 @@
+PODS:
+  - ICGVideoTrimmer (1.1)
+  - MOBFoundation_IDFA (2.2.3)
+  - RongCloudIMKit (2.7.2)
+  - SMSSDK (2.0.8)
+
+DEPENDENCIES:
+  - ICGVideoTrimmer
+  - MOBFoundation_IDFA
+  - RongCloudIMKit (= 2.7.2)
+  - SMSSDK
+
+SPEC CHECKSUMS:
+  ICGVideoTrimmer: 1f54de0595af56af2a406f20cdb33c1c440d15cd
+  MOBFoundation_IDFA: bdc119aa1dd48c741d913695dcecfbef350555df
+  RongCloudIMKit: 9dcdee89da511bf1fa375ac0646754783cdb9c9e
+  SMSSDK: 1fc8500bec6bc36b524e4de7fac4acdb784e0217
+
+PODFILE CHECKSUM: 5e59ddc550f84be417c6a7e9df3af68218370a68
+
+COCOAPODS: 1.0.1

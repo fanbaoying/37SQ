@@ -1,0 +1,7 @@
+target ’37SQ’ do
+pod 'RongCloudIMKit','2.7.2'
+pod 'MOBFoundation_IDFA'
+pod 'SMSSDK'
+pod 'ICGVideoTrimmer'
+pod 'MOBFoundation_IDFA'
+end
